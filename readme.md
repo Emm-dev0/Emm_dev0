@@ -54,10 +54,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on great thing
-- 🌱 I’m c
+
 - 👯 I’m looking to collaborate on great thing
 - 🤔 I’m looking for help with ... Ideas
 - 💬 Ask me about Code
 - 📫 How to reach me: <a href="https://wa.me/2349040016816?text=i am from github">Reach me</a>
-- 😄 Pronouns: ...He/Him
+
 - ⚡ Fun fact: ... Loading
