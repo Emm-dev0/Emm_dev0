@@ -2,7 +2,7 @@
 ### <img height="40em" src="https://img.shields.io/badge/hello-There👋-brightgreen" />
 <div align="center">
 
-# I am Edogbanya Emmanuel
+# I am Emmanuel Edogbanya.
 <hr>
 
 
