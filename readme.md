@@ -30,7 +30,7 @@
 <hr>
 
 ### Coding Time and Activities 
-<a href="https://wakatime.com/@3ab5e86a-11c8-4d0f-8e6f-f5fe5ef0fa4c"><img src="https://wakatime.com/badge/user/3ab5e86a-11c8-4d0f-8e6f-f5fe5ef0fa4c.svg" alt="Total time coded since Mar 23 2022" /></a>
+<a href="https://wakatime.com/@a1ee0bbe-01ce-4a57-9885-df5c8536b5bf"><img src="https://wakatime.com/badge/user/a1ee0bbe-01ce-4a57-9885-df5c8536b5bf.svg" alt="Total time coded since Mar 23 2022" /></a>
 
 </div>
 
