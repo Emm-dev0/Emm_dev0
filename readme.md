@@ -42,3 +42,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emm-dev0&layout=compact&hide=css,html&langs_count=8" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Emm_dev&layout=compact&hide=css,HTML,other&langs_count=8" />
 </div>
+[![An image of @emmdev0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emmdev0)](https://holopin.io/@emmdev0)
