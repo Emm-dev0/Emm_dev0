@@ -44,5 +44,3 @@
 </div>  
 
 [![An image of @emmdev0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emmdev0)](https://holopin.io/@emmdev0)  
-
-[![An image of @emmdev0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emmdev0)](https://holopin.io/@emmdev0)
